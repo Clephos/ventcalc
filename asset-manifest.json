@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ventcalc/static/js/main.d3ec648d.js",
+    "index.html": "/ventcalc/index.html",
+    "main.d3ec648d.js.map": "/ventcalc/static/js/main.d3ec648d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d3ec648d.js"
+  ]
+}
