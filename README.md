@@ -47,29 +47,6 @@ Then open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📦 Deployment (GitHub Pages)
-
-1. Add this to `package.json`:
-
-```json
-"homepage": "https://<your-username>.github.io/ventcalc"
-```
-
-2. Add deploy scripts:
-
-```json
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
-```
-
-3. Run:
-
-```bash
-npm run deploy
-```
-
----
-
 ## ⚠️ Disclaimer
 
 VentCalc is provided as an **informational tool only** and does not replace clinical judgment. It is not approved by the FDA and should not be used for critical medical decision-making without verification.
@@ -85,6 +62,6 @@ For feedback, suggestions, or contributions:
 
 ---
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License.
+This project is licensed for personal, non-commercial use only. See [LICENSE](./LICENSE) for full terms.
