@@ -1,90 +1,50 @@
-# Vent Calc
+# VentCalc
 
-**VentCalc.cc** is a simple, focused calculator for healthcare professionals, designed to assist in ventilator-related calculations and assessments at the bedside.
+VentCalc is a lightweight web-based tool for ICU and critical care clinicians to perform common ventilator-related calculations quickly and intuitively. It includes calculators for:
 
-## 🌐 Live Site
+- Ideal Body Weight and Tidal Volume
+- Minute Ventilation and Respiratory Rate targeting
+- ROX Index for HFNC therapy evaluation
+- Winter’s Formula for acid-base interpretation
+- PaCO₂ correction by adjusting RR or MV
 
-Visit: [https://ventcalc.cc](https://ventcalc.cc)
+Built using React and Material UI, this application is optimized for speed and usability on desktop and mobile devices.
 
-Or via GitHub Pages (if hosted there): [https://clephos.github.io/ventcalc](https://clephos.github.io/ventcalc)
+## Live Site
 
----
+You can access the application at: [https://ventcalc.cc](https://ventcalc.cc)
 
-## ⚙️ Features
+## Usage
 
-- ✅ Calculate Ideal Body Weight (IBW)
-- ✅ Tidal Volume (TV) & Minute Ventilation (V̇)
-- ✅ Respiratory Rate (RR)
-- ✅ Winter’s Formula for metabolic acidosis
-- ✅ PaCO₂ Correction Tool
-- ✅ Reference and Terms of Service pages
-- ✅ Responsive and mobile-friendly design
-- ✅ Built with React and Material UI
+VentCalc is currently offered free of charge for clinical reference purposes. In future updates, the app may include display ads and monetization features. It is not FDA-approved and should not be used as a substitute for clinical judgment.
 
----
+## Development
 
-## 🚀 Getting Started
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To run locally:
 
 ```bash
-git clone https://github.com/<your-username>/ventcalc.git
-cd ventcalc
 npm install
 npm start
 ```
 
-Then open [http://localhost:3000](http://localhost:3000)
-
----
-
-## 🛠 Tech Stack
-
-- [React](https://reactjs.org/)
-- [Material UI](https://mui.com/)
-- [React Router DOM](https://reactrouter.com/)
-- [gh-pages](https://github.com/tschaub/gh-pages) (optional for deployment)
-
----
-
-## 📦 Deployment (GitHub Pages)
-
-1. Add this to `package.json`:
-
-```json
-"homepage": "https://<your-username>.github.io/ventcalc"
-```
-
-2. Add deploy scripts:
-
-```json
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
-```
-
-3. Run:
+To deploy:
 
 ```bash
-npm run deploy
+npm run build
 ```
 
----
+## License
 
-## ⚠️ Disclaimer
+VentCalc is licensed under the **BUSL-1.1 (Business Source License)**. This allows free use, modification, and distribution for non-commercial purposes. Commercial use — including monetized deployments — requires a commercial license from the developer.
 
-VentCalc is provided as an **informational tool only** and does not replace clinical judgment. It is not approved by the FDA and should not be used for critical medical decision-making without verification.
+See `LICENSE` file for details.
 
----
+## About
 
-## 📬 Contact
+This project is developed and maintained by **M31Lab LLC**. For inquiries, please visit [https://m31lab.io](https://m31lab.io).
 
-For feedback, suggestions, or contributions:
+## Privacy
 
-**Email:** [hello@m31lab.com](mailto:hello@m31lab.com)  
-**Developer:** [M31Lab LLC](https://m31lab.io)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+VentCalc does not collect, store, or transmit any personal data. All calculations are performed client-side within your browser.

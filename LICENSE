@@ -1,9 +1,35 @@
-Copyright (c) 2025 M31Lab LLC
 
-Permission is granted to any individual to download, view, and use this software solely for personal, non-commercial purposes, provided that appropriate credit is given to M31Lab LLC.
 
-Commercial use, redistribution, modification, or sublicensing of this software or any part thereof is strictly prohibited without prior written permission from M31Lab LLC.
+Business Source License 1.1
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+Parameters
 
-For commercial licensing or inquiries, contact hello@m31lab.com.
+Licensor: M31Lab LLC
+
+Licensed Work: VentCalc (this software repository)
+
+Additional Use Grant: Any use not intended for commercial purposes, including clinical reference, educational use, personal experimentation, or public deployment without monetization.
+
+Change Date: 2028-07-19
+
+Change License: Apache 2.0
+
+Terms
+
+The Licensor hereby grants you the right to use, copy, modify, and redistribute the Licensed Work, subject to the following limitations and conditions.
+
+1. **Use Limitation**: The Licensed Work may not be used for a Commercial Purpose, except as expressly provided under this license. Commercial Purpose includes any use in or for a business, including but not limited to offering the Licensed Work to third parties as a paid service, or including it in a product or service for which a fee is charged.
+
+2. **Change Date**: The above Use Limitation will expire on the Change Date. On the Change Date, the Licensed Work will be made available under the Change License.
+
+3. **Notices**: All copies of the Licensed Work must include a copy of this license. You must conspicuously display this license on each copy of the Licensed Work you distribute.
+
+4. **No Trademark Rights**: This license does not grant any rights to use the Licensor’s name, logo, or trademarks.
+
+5. **No Warranty**: The Licensed Work is provided "as is", without warranty or condition, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+6. **Liability**: In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law, shall any Licensor be liable to you for damages, including any direct, indirect, special, incidental, or consequential damages arising out of or related to the Licensed Work or this license.
+
+7. **Acceptance**: Any use of the Licensed Work indicates acceptance of this license.
+
+For more information, visit: https://mariadb.com/bsl11/
